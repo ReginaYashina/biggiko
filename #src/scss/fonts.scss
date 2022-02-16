@@ -1,0 +1,34 @@
+@font-face {
+	font-family: "icons";
+	src: url("../fonts/icons.eot?a8ype9");
+	src: url("../fonts/icons.eot?a8ype9#iefix") format("embedded-opentype"),
+		url("../fonts/icons.ttf?a8ype9") format("truetype"), url("../fonts/icons.woff?a8ype9") format("woff"),
+		url("../fonts/icons.svg?a8ype9#icons") format("svg");
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+}
+
+@font-face {
+	font-family: "Rubik";
+	src: local("../fonts/Rubik-Regular"), local("../fonts/Rubik-Regular"),
+		url("../fonts/Rubik-Regular.woff2") format("woff2"), url("../fonts/Rubik-Regular.woff") format("woff"),
+		url("../fonts/Rubik-Regular.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Rubik";
+	src: local("../fonts/Rubik-Medium"), local("../fonts/Rubik-Medium"),
+		url("../fonts/Rubik-Medium.woff2") format("woff2"), url("../fonts/Rubik-Medium.woff") format("woff"),
+		url("../fonts/Rubik-Medium.ttf") format("truetype");
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Rubik";
+	src: local("../fonts/Rubik-Bold"), local("../fonts/Rubik-Bold"), url("../fonts/Rubik-Bold.woff2") format("woff2"),
+		url("../fonts/Rubik-Bold.woff") format("woff"), url("../fonts/Rubik-Bold.ttf") format("truetype");
+	font-weight: 700;
+	font-style: normal;
+}
